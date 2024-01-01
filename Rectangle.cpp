@@ -22,7 +22,7 @@ int main (int argc, char** argv){
     glutInitDisplayMode (GLUT_SINGLE | GLUT_RGB);
     glutInitWindowPosition (100, 100);
     glutInitWindowSize (1000, 600);
-    glutCreateWindow ("211397 Computer Graphics Lab 1");
+    glutCreateWindow ("Rectangle");
     init ( );
     glutDisplayFunc (lineSegment);
     glutMainLoop ( );
