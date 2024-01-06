@@ -1,4 +1,7 @@
-List of codes in the repositories:
+The codes are written using glut.h library of c++, therefore it needs to be configured on your device before using these codes.
+<br>
+<br>
+List of codes in the repository:
 1. 2D Translations.
 2. 3D Translations.
 3. Boundary fill.
